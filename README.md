@@ -20,6 +20,3 @@ Evaluar y comparar el rendimiento de dos modelos estadísticos con el fin de sel
   - Matriz de confusión
   - AUC (Área bajo la curva ROC)
   - Accuracy, Sensibilidad, Especificidad
-
-## Estructura del repositorio
-
